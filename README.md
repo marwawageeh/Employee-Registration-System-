@@ -37,11 +37,7 @@ It was one of my favorite projects because I learned so many important programmi
 
 - This project is educational and was part of my personal learning journey.
 - It can be further enhanced by integrating with a database or building a simple GUI using Tkinter or web frameworks.
-
-## 📷 Screenshots
-
-> *(Optional: You can add terminal screenshots showing how the system works.)*
-
+  
 ---
 
 ## 🙌 Thank You for Checking Out My Project!
